@@ -1,6 +1,6 @@
 # 🤟 Sign Language to Text Conversion
 
-This project aims to convert American Sign Language (ASL) gestures into text using a Convolutional Neural Network (CNN). It is built using Python, OpenCV, and TensorFlow, and features a real-time GUI using Tkinter to display detected characters, words, sentences, and word suggestions.
+This project aims to convert Sign Language gestures into text using a Convolutional Neural Network (CNN). It is built using Python, OpenCV, and TensorFlow, and features a real-time GUI using Tkinter to display detected characters, words, sentences, and word suggestions.
 
 ---
 
@@ -11,12 +11,12 @@ Sign Language is a vital medium of communication for the deaf and hard-of-hearin
 ---
 
 ## 🧠 Model Flow
-![Model Flow](images/modelflow.png)
+![Model Flow](images/modelflow.jpg)
 
 ---
 
 ## 🔁 Application Flow
-![Application Flow](images/signflow.png)
+![Application Flow](images/signflow.jpg)
 
 
 ---
@@ -52,8 +52,8 @@ Sign Language is a vital medium of communication for the deaf and hard-of-hearin
 
 ## 🖥️ Sample GUI Screenshot
 
-![GUI Screenshot 1](images/gui1.png)
-![GUI Screenshot 2](images/gui2.png)
+![GUI Screenshot 1](images/gui2.png)
+![GUI Screenshot 2](images/gui1.png)
 ---
 
 ## 📁 Dataset
