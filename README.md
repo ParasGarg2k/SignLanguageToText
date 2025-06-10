@@ -11,18 +11,18 @@ Sign Language is a vital medium of communication for the deaf and hard-of-hearin
 ---
 
 ## 🧠 Model Flow
-![Model Flow]images/modelflow.png)
+![Model Flow](images/modelflow.png)
 
 ---
 
 ## 🔁 Application Flow
-![Application Flow]images/signflow.png)
+![Application Flow](images/signflow.png)
 
 
 ---
 
 ## 📉 Confusion Matrix
-![Confusion Matrix]images/conf.png)
+![Confusion Matrix](images/conf.png)
 
 ---
 
@@ -52,8 +52,8 @@ Sign Language is a vital medium of communication for the deaf and hard-of-hearin
 
 ## 🖥️ Sample GUI Screenshot
 
-![GUI Screenshot]images/gui.png)
-
+![GUI Screenshot 1](images/gui1.png)
+![GUI Screenshot 2](images/gui2.png)
 ---
 
 ## 📁 Dataset
